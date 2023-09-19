@@ -1,11 +1,20 @@
 ---
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: cake.png
+title: Exotic Options Pricing
+modal-id: 1
+date: 2023-09-15
+img: option_pricing.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: August 2023
+category: Quant-Finance
+description: "The 'Exotic Options Pricing' project delves into the intricate world of exotic options, pricing them using both Monte Carlo and Finite Difference Methods (FDM). The project covers a variety of exotic options, including Asian, American, Lookback, and Barrier options. Each possessing unique features and payoff conditions, making them more complex than standard options. 
+
+
+FDM was used to solve Black Scholes PDE, Explicit, Implicit and Crank-Nicolson schemes were implemented. 
+
+
+Monte Carlo method was used for path dependent options - simulating the underlying stock's price dynamics with a stochastic process, then calculate the discounted fair price. Stochastic processes include Geometric Brownian Motion (GBM), Vasicek Model, Cox-Ingersoll-Ross (CIR) Model, Heston Model, and Merton's Jump Diffusion.
+
+<br><br>This project can be accessed through the following <a href='https://github.com/Bruce1102/Exotic-Options-Pricing'>github link</a>."
+
 ---
