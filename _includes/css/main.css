@@ -46,7 +46,7 @@ hr.star-primary {
     text-align: center;
     overflow: visible;
 }
-
+/* 
 hr.star-light:after,
 hr.star-primary:after {
     content: "\f005";
@@ -75,7 +75,8 @@ hr.star-primary:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
 }
-
+ */
+ 
 .img-centered {
     margin: 0 auto;
 }
