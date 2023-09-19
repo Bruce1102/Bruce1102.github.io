@@ -152,7 +152,7 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    background-color: #7F867B;
+    background-color: #5f665b;
 }
 
 .navbar a:focus {
@@ -364,7 +364,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #7F867B;
+    background-color: #5f665b;
 }
 
 footer .footer-col {
@@ -373,7 +373,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #7F867B;
+    background-color: #5f665b;
 }
 
 .btn-social {
@@ -467,14 +467,14 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #E3E4E0;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
 
 .navbar-nav>.active>a {
-    background-color: #7F867B !important;
+    background-color: #5f665b !important;
 }
 
 /* Fix modal mouse wheel issues */
