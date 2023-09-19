@@ -449,6 +449,12 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
+
+.contact-section {
+    background-color: #{{ site.color.secondary }}; /* Replace with your desired color */
+}
+
+
 .navbar-nav>.active>a {
     background-color: #{{ site.color.top-botton }} !important;
 }
