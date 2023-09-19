@@ -173,7 +173,9 @@ section.success {
         padding-top: 75px;
     }
 }
-
+#portfolio h2 {
+    color: #{{ site.color.top-botton}};
+}
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
