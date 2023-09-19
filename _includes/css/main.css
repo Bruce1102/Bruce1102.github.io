@@ -176,6 +176,11 @@ section.success {
 #portfolio h2 {
     color: #{{ site.color.top-botton}};
 }
+
+#portfolio hr {
+    color: #{{ site.color.top-botton}};
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
