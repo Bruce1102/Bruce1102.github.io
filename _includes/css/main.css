@@ -98,7 +98,7 @@ header img {
 
 header .intro-text .name {
     display: block;
-    color: #{{site.colors.secondary}};
+    color: #{{ site.color.secondary }};
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
@@ -108,7 +108,7 @@ header .intro-text .name {
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
-    color: #{{site.colors.secondary}};
+    color: #{{ site.color.secondary }};
 }
 
 @media(min-width:768px) {
