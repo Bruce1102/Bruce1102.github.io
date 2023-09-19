@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-09-15
-img: cabin.png
+img: stochastic_fitting.png
 alt: image-alt
 project-date: April 2014
 category: Quant-Finance
