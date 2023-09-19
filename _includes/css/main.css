@@ -4,7 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-body {
+ body {
     overflow-x: hidden;
 }
 
@@ -83,7 +83,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #E3E4E0;
+    background: #{{ site.color.primary }};
 }
 
 header .container {
@@ -152,7 +152,6 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    background-color: #5f665b;
 }
 
 .navbar a:focus {
@@ -183,7 +182,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #AF9F8C;
+    background: #{{ site.color.primary }};
 }
 
 @media(max-width:767px) {
@@ -364,7 +363,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #5f665b;
+    background-color: #{{ site.color.secondary }};
 }
 
 footer .footer-col {
@@ -373,7 +372,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #5f665b;
+    background-color: #{{ site.color.secondary-dark }};
 }
 
 .btn-social {
@@ -467,14 +466,14 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #E3E4E0;
+    background-color: #{{ site.color.secondary }};
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
 
 .navbar-nav>.active>a {
-    background-color: #5f665b !important;
+    background-color: #{{ site.color.secondary-dark }} !important;
 }
 
 /* Fix modal mouse wheel issues */
