@@ -3,7 +3,7 @@ title: End of Bachelors Video Edit
 layout: default
 modal-id: 4
 date: 2014-07-16
-img: vol_forecast.png
+img: eoyvid.png
 alt: image-alt
 project-date: August 2022
 category: Video Editing
@@ -12,7 +12,10 @@ description: "After capturing 3 exciting years of footage from my experiences du
 <br><br>This video can be watched through the following <a href='https://www.youtube.com/watch?v=Aus40xamRQc'>youtube link</a> or <a href='https://www.instagram.com/p/Ch4joCHLdIP/'> Instagram link</a>."
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Aus40xamRQc?si=t-1Y0bmosw6wAzaF" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html %}
+
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Aus40xamRQc?si=t-1Y0bmosw6wAzaF" frameborder="0" allowfullscreen></iframe> -->
 
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Aus40xamRQc?si=t-1Y0bmosw6wAzaF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
