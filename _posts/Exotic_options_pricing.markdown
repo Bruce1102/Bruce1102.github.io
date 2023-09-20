@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Exotic Options Pricing
-modal-id: 2
+title: Market Neutral Options Trading Strategy
+modal-id: 3
 date: 2023-09-15
 img: option_pricing.png
 alt: image-alt
