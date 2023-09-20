@@ -7,5 +7,7 @@ img: vol_forecast.png
 alt: image-alt
 project-date: August 2023
 category: Quant-Finance
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: "Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+
+<br><br>This project can be accessed through the following <a href='https://github.com/Bruce1102/Market-Neutral-Options-Strategy-with-Volatility-Forecasting'>github link</a>."
 ---
