@@ -182,7 +182,7 @@ section.success {
 /* ========================================================== */
 
 #portfolio {
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 #portfolio h2 {
