@@ -402,8 +402,8 @@ footer .footer-below {
     outline: 0;
 }
 
-.container .portfolio-flex-grid {
-    background-color: #{{ site.color.secondary }};
+.portfolio {
+    background-color: #FF5733;  /* Change this to your desired color */
 }
 
 .portfolio-modal .modal-content {
