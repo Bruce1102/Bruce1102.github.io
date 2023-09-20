@@ -7,7 +7,9 @@ img: vol_forecast.png
 alt: image-alt
 project-date: August 2023
 category: Quant-Finance
-description: "Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: "This was my applied project (with further developments and improvements) from my MSc in Imperial College Business School. There are existing studies regarding the autocorrelation of volatilities and returns from ETF's, and I have decided to utilise probability, statistics and programming to leverage this autocorrelation and build a market neutral trading strategy by shorting volatility. This project utilises Generalized Auto-Regressive Conditional Heteroskedasticity (GARCH) model as well as a Linear Stochastic Factor (LSF) model to forecast the future volatility of SPX. 
+
+Through historical backtesting (2015-23), it has achieved a sharpe ratio of 1.16 with a holding period of one week, generating an average PnL of 71% per trade.
 
 <br><br>This project can be accessed through the following <a href='https://github.com/Bruce1102/Market-Neutral-Options-Strategy-with-Volatility-Forecasting'>github link</a>."
 ---
