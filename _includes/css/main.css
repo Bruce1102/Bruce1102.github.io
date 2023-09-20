@@ -70,8 +70,6 @@ header img {
     height: 256px; /* You can adjust this value as per your requirement */
 }
 
-
-
 header .intro-text .name {
     display: block;
     color: #{{ site.color.top-botton }};
@@ -101,6 +99,9 @@ header .intro-text .skills {
         font-size: 1.75em;
     }
 }
+
+/* ========================================================== */
+/* ========================================================== */
 
 @media(min-width:768px) {
     .navbar-fixed-top {
@@ -150,6 +151,9 @@ header .intro-text .skills {
     border: 0;
 }
 
+/* ========================================================== */
+/* ========================================================== */
+
 section {
     padding: 100px 0;
 }
@@ -173,6 +177,14 @@ section.success {
         padding-top: 75px;
     }
 }
+
+/* ========================================================== */
+/* ========================================================== */
+
+#portfolio {
+    background-color: #{{ site.color.secondary }};
+}
+
 #portfolio h2 {
     color: #{{ site.color.top-botton}};
 }
@@ -267,6 +279,11 @@ section.success {
       max-width: 23.5%;
     }
   } */
+
+
+/* ========================================================== */
+/* ========================================================== */
+
 
 .btn-outline {
     margin-top: 15px;
@@ -402,9 +419,8 @@ footer .footer-below {
     outline: 0;
 }
 
-#portfolio {
-    background-color: #FF5733;  /* Change this to your desired color */
-}
+/* ========================================================== */
+/* ========================================================== */
 
 .portfolio-modal .modal-content {
     padding: 100px 0;
@@ -465,6 +481,8 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
+/* ========================================================== */
+/* ========================================================== */
 
 .contact-section {
     background-color: #{{ site.color.secondary }}; 
